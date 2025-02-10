@@ -1,0 +1,7 @@
+data/
+figures/
+venv/
+notebooks/.ipynb_checkpoints/
+notebooks/playground.ipynb
+.python-version
+notebooks/data_cleaning_tests.py
